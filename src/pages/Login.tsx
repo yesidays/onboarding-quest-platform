@@ -41,7 +41,7 @@ export default function Login() {
       </div>
       <LoginForm />
       <p className="text-xs text-muted-foreground mt-8">
-        Selecciona cualquier rol para iniciar sesión - Las credenciales no son validadas en esta versión de demo
+        Tu rol y permisos fueron asignados por el equipo de Recursos Humanos - Las credenciales no son validadas en esta versión de demo
       </p>
     </div>
   );
